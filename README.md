@@ -7,13 +7,13 @@
 
 [English](https://github.com/944613709/944613709/blob/main/README.md)
 
-- 📝 I regularly write articles on [http://shizhuofan.top/](http://shizhuofan.top/)
-
-- 📫 How to reach me **shizhuofanl@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+- 📝 I regularly write articles on [http://shizhuofan.top/](http://shizhuofan.top/)
+
+- 📫 Email  **shizhuofanl@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>

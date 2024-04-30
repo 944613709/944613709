@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shi Zhuofan</h1>
 <h3 align="center">A software engineering student at Harbin University of Technology</h3>
-
+Majoring in software engineering at Harbin Institute of Technology.Pre-Master at PKU
+Previously engaged in a year of cloud native related scientific research work. I was interested in and studied springcloud,k8s. At present, my internship research fields are LLM, agent and RAG
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=944613709&label=Profile%20views&color=0e75b6&style=flat" alt="944613709" /> </p>
 
 [简体中文](https://github.com/944613709/944613709/blob/main/README_CN.md)

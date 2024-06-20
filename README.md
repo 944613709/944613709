@@ -1,6 +1,4 @@
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hi 👋}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I'm Shi Zhuofan}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%EF%BC%8CI'm+Zhuofan+Shi+)](https://git.io/typing-svg)
 <h3 align="center">A software engineering student at Harbin University of Technology</h3>
 Majoring in software engineering at Harbin Institute of Technology.Pre-Master at PKU
 Previously engaged in a year of cloud native related scientific research work. I was interested in and studied springcloud,k8s. At present, my internship research fields are LLM, agent and RAG

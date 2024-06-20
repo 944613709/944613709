@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Shi Zhuofan</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text={Hi 👋}&fontSize=90&fontAlign=50&fontAlignY=30&desc={I'm Shi Zhuofan}&descAlign=50&descSize=30&descAlignY=60&animation=twinkling" />
+</p>
 <h3 align="center">A software engineering student at Harbin University of Technology</h3>
 Majoring in software engineering at Harbin Institute of Technology.Pre-Master at PKU
 Previously engaged in a year of cloud native related scientific research work. I was interested in and studied springcloud,k8s. At present, my internship research fields are LLM, agent and RAG
